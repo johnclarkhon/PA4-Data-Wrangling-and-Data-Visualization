@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/2ae2f3b6-9f2c-48d8-86d6-5d514ba16c79)
 
-:pencil: # PA4-Data-Wrangling-and-Data-Visualization
+# PA4-Data-Wrangling-and-Data-Visualization
 
-## Author
+:pencil:## Author
 ### Name: John Clark D. Honrado
 ### Section: 2ECE-A
 
