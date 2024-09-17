@@ -10,7 +10,7 @@
 ## Requirements before doing the project:
 1. Install the latest version of Python
 2. Get Anaconda Navigator installed
-3. Make sure to have Pandas library using "pip list" in cmd-administrator to check all the installed libraries, if not type "pip install numpy" to install it
+3. Make sure to have Pandas library using "pip list" in cmd-administrator to check all the installed libraries, if not type "pip install pandas" to install it
 
 
 
@@ -26,3 +26,11 @@
 
 ### ECE BOARD EXAM PROBLEM:
 Using data wrangling and data visualization technique with storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.
+
+1. Create the following data frames based on the format provided:
+   a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon
+   b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
+
+2. Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
+
+
