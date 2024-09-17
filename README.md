@@ -2,7 +2,7 @@
 
 # PA4-Data-Wrangling-and-Data-Visualization
 
-:pencil:## Author
+:pencil: ## Author
 ### Name: John Clark D. Honrado
 ### Section: 2ECE-A
 
